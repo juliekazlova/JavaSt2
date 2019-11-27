@@ -1,4 +1,4 @@
-package by.epam.javast.kazlova.project2.dao;
+package by.epam.javast.kazlova.project2.validator;
 
 import by.epam.javast.kazlova.project2.beans.Point;
 
@@ -7,7 +7,6 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.logging.LogManager;
 import java.util.logging.Logger;
 
 public class Validator {
